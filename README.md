@@ -1,11 +1,11 @@
-# 🕌 Langar House — Backend Management System
+# Langar House — Backend Management System
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.5.12-6DB33F?style=flat&logo=spring-boot)
 ![Java](https://img.shields.io/badge/Java-17-ED8B00?style=flat&logo=openjdk)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Supabase-316192?style=flat&logo=postgresql)
 ![Deployed](https://img.shields.io/badge/Deployed-Render-46E3B7?style=flat&logo=render)
 
-A production-grade REST API backend for managing daily langar (community kitchen) operations — including visitor tracking, food waste analytics, inventory alerts, expense management, and staff attendance — secured with Supabase JWT authentication and role-based access control.
+A REST API backend for managing daily langar (community kitchen) operations — including visitor tracking, food waste analytics, inventory alerts, expense management, and staff attendance — secured with Supabase JWT authentication and role-based access control.
 
 ---
 
