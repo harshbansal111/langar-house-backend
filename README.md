@@ -6,6 +6,7 @@
 ![Deployed](https://img.shields.io/badge/Deployed-Render-46E3B7?style=flat&logo=render)
 
 A REST API backend for managing daily langar (community kitchen) operations — including visitor tracking, food waste analytics, inventory alerts, expense management, and staff attendance — secured with Supabase JWT authentication and role-based access control.
+<img width="1627" height="855" alt="image" src="https://github.com/user-attachments/assets/25972e45-9cb4-4dbf-9938-1442ff7752b9" />
 
 ---
 
